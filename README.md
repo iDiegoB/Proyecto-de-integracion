@@ -66,5 +66,3 @@ Administrador: acceso total, creación de usuarios y acceso al ORM.
 Gerencia: acceso total y creación de usuarios.
 Usuario normal: acceso restringido.
 
-
-Si quieres, también puedo hacer una versión más compacta, profesional o con más color.
